@@ -63,8 +63,9 @@ require (
 	github.com/hashicorp/go-plugin v1.0.1-0.20190610192547-a1bc61569a26
 	github.com/hashicorp/go-retryablehttp v0.5.2
 	github.com/hashicorp/go-rootcerts v1.0.0
+	github.com/hashicorp/go-slug v0.3.1-0.20191010205338-b03503a77720 // indirect
 	github.com/hashicorp/go-sockaddr v0.0.0-20180320115054-6d291a969b86 // indirect
-	github.com/hashicorp/go-tfe v0.3.25-0.20191010204157-b71a874ecfa9
+	github.com/hashicorp/go-tfe v0.3.25-0.20191010205045-c8671afaec68
 	github.com/hashicorp/go-uuid v1.0.1
 	github.com/hashicorp/go-version v1.1.0
 	github.com/hashicorp/hcl v0.0.0-20170504190234-a4b07c25de5f
